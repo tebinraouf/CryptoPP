@@ -1,0 +1,14 @@
+Execute the following to compile each .cpp file. 
+
+g++ [filename.cpp] -o result -l cryptopp
+
+Then 
+
+./result
+
+
+
+
+
+
+
